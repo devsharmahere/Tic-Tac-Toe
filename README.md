@@ -16,4 +16,4 @@ A simple and interactive Tic-Tac-Toe game built with React, Vite, and Tailwind C
 
 ## Live Demo
 
-https://tic-tac-toe-dev-here.vercel.app/
+https://tic-tac-toe-omega-umber.vercel.app/
